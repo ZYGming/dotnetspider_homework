@@ -1,0 +1,66 @@
+[20170618 19:54:36][ef65fadbd6289d70][Info] 构建内部模块、准备爬虫数据...
+[20170618 19:54:36][ef65fadbd6289d70][Trace] Left 0 Success 0 Error 0 Total 0 Dowload 0 Extract 0 Pipeline 0
+[20170618 19:54:37][ef65fadbd6289d70][Info] 准备步骤: 添加链接到调度中心, 数量 1.
+[20170618 19:54:39][ef65fadbd6289d70][Info] 采集: http://news.baidu.com/ns?word=淘宝618&tn=news&from=news&cl=2&pn=0&rn=20&ct=1 成功.
+[20170618 19:54:43][ef65fadbd6289d70][Info] 采集: http://news.baidu.com/ns?word=淘宝618&pn=20&cl=2&ct=1&tn=news&rn=20&ie=utf-8&bt=0&et=0&rsv_page=1 成功.
+[20170618 19:54:45][ef65fadbd6289d70][Info] 采集: http://news.baidu.com/ns?word=淘宝618&pn=40&cl=2&ct=1&tn=news&rn=20&ie=utf-8&bt=0&et=0&rsv_page=1 成功.
+[20170618 19:54:46][ef65fadbd6289d70][Info] 采集: http://news.baidu.com/ns?word=淘宝618&pn=60&cl=2&ct=1&tn=news&rn=20&ie=utf-8&bt=0&et=0&rsv_page=1 成功.
+[20170618 19:54:48][ef65fadbd6289d70][Info] 采集: http://news.baidu.com/ns?word=淘宝618&pn=80&cl=2&ct=1&tn=news&rn=20&ie=utf-8&bt=0&et=0&rsv_page=1 成功.
+[20170618 19:54:50][ef65fadbd6289d70][Info] 采集: http://news.baidu.com/ns?word=淘宝618&pn=100&cl=2&ct=1&tn=news&rn=20&ie=utf-8&bt=0&et=0&rsv_page=1 成功.
+[20170618 19:54:51][ef65fadbd6289d70][Info] 采集: http://news.baidu.com/ns?word=淘宝618&pn=120&cl=2&ct=1&tn=news&rn=20&ie=utf-8&bt=0&et=0&rsv_page=1 成功.
+[20170618 19:55:00][0aaaa5e576f565f8][Info] 构建内部模块、准备爬虫数据...
+[20170618 19:55:00][0aaaa5e576f565f8][Trace] Left 0 Success 0 Error 0 Total 0 Dowload 0 Extract 0 Pipeline 0
+[20170618 19:55:00][0aaaa5e576f565f8][Info] 准备步骤: 添加链接到调度中心, 数量 1.
+[20170618 19:55:02][0aaaa5e576f565f8][Info] 采集: http://news.baidu.com/ns?word=淘宝618&tn=news&from=news&cl=2&pn=0&rn=20&ct=1 成功.
+[20170618 19:55:07][0aaaa5e576f565f8][Info] 采集: http://news.baidu.com/ns?word=淘宝618&pn=20&cl=2&ct=1&tn=news&rn=20&ie=utf-8&bt=0&et=0&rsv_page=1 成功.
+[20170618 19:55:08][0aaaa5e576f565f8][Info] 采集: http://news.baidu.com/ns?word=淘宝618&pn=40&cl=2&ct=1&tn=news&rn=20&ie=utf-8&bt=0&et=0&rsv_page=1 成功.
+[20170618 19:55:10][0aaaa5e576f565f8][Info] 采集: http://news.baidu.com/ns?word=淘宝618&pn=60&cl=2&ct=1&tn=news&rn=20&ie=utf-8&bt=0&et=0&rsv_page=1 成功.
+[20170618 19:55:11][0aaaa5e576f565f8][Info] 采集: http://news.baidu.com/ns?word=淘宝618&pn=80&cl=2&ct=1&tn=news&rn=20&ie=utf-8&bt=0&et=0&rsv_page=1 成功.
+[20170618 19:55:13][0aaaa5e576f565f8][Info] 采集: http://news.baidu.com/ns?word=淘宝618&pn=100&cl=2&ct=1&tn=news&rn=20&ie=utf-8&bt=0&et=0&rsv_page=1 成功.
+[20170618 19:55:14][0aaaa5e576f565f8][Info] 采集: http://news.baidu.com/ns?word=淘宝618&pn=120&cl=2&ct=1&tn=news&rn=20&ie=utf-8&bt=0&et=0&rsv_page=1 成功.
+[20170618 19:55:16][0aaaa5e576f565f8][Info] 采集: http://news.baidu.com/ns?word=淘宝618&pn=140&cl=2&ct=1&tn=news&rn=20&ie=utf-8&bt=0&et=0&rsv_page=1 成功.
+[20170618 19:55:17][0aaaa5e576f565f8][Info] 采集: http://news.baidu.com/ns?word=淘宝618&pn=160&cl=2&ct=1&tn=news&rn=20&ie=utf-8&bt=0&et=0&rsv_page=1 成功.
+[20170618 19:55:19][0aaaa5e576f565f8][Info] 采集: http://news.baidu.com/ns?word=淘宝618&pn=180&cl=2&ct=1&tn=news&rn=20&ie=utf-8&bt=0&et=0&rsv_page=1 成功.
+[20170618 19:55:21][0aaaa5e576f565f8][Info] 采集: http://news.baidu.com/ns?word=淘宝618&pn=200&cl=2&ct=1&tn=news&rn=20&ie=utf-8&bt=0&et=0&rsv_page=1 成功.
+[20170618 19:55:22][0aaaa5e576f565f8][Info] 采集: http://news.baidu.com/ns?word=淘宝618&pn=160&cl=2&ct=1&tn=news&rn=20&ie=utf-8&bt=0&et=0&rsv_page=-1 成功.
+[20170618 19:57:06][f34c53bef4dab6c3][Info] 构建内部模块、准备爬虫数据...
+[20170618 19:57:06][f34c53bef4dab6c3][Trace] Left 0 Success 0 Error 0 Total 0 Dowload 0 Extract 0 Pipeline 0
+[20170618 19:57:06][f34c53bef4dab6c3][Info] 准备步骤: 添加链接到调度中心, 数量 1.
+[20170618 19:57:08][f34c53bef4dab6c3][Info] 采集: http://news.baidu.com/ns?word=淘宝618&tn=news&from=news&cl=2&pn=0&rn=20&ct=1 成功.
+[20170618 19:57:13][f34c53bef4dab6c3][Info] 采集: http://news.baidu.com/ns?word=淘宝618&pn=20&cl=2&ct=1&tn=news&rn=20&ie=utf-8&bt=0&et=0&rsv_page=1 成功.
+[20170618 19:57:15][f34c53bef4dab6c3][Info] 采集: http://news.baidu.com/ns?word=淘宝618&pn=40&cl=2&ct=1&tn=news&rn=20&ie=utf-8&bt=0&et=0&rsv_page=1 成功.
+[20170618 19:57:17][f34c53bef4dab6c3][Info] 采集: http://news.baidu.com/ns?word=淘宝618&pn=60&cl=2&ct=1&tn=news&rn=20&ie=utf-8&bt=0&et=0&rsv_page=1 成功.
+[20170618 19:57:18][f34c53bef4dab6c3][Info] 采集: http://news.baidu.com/ns?word=淘宝618&pn=80&cl=2&ct=1&tn=news&rn=20&ie=utf-8&bt=0&et=0&rsv_page=1 成功.
+[20170618 19:57:20][f34c53bef4dab6c3][Info] 采集: http://news.baidu.com/ns?word=淘宝618&pn=100&cl=2&ct=1&tn=news&rn=20&ie=utf-8&bt=0&et=0&rsv_page=1 成功.
+[20170618 19:57:21][f34c53bef4dab6c3][Info] 采集: http://news.baidu.com/ns?word=淘宝618&pn=120&cl=2&ct=1&tn=news&rn=20&ie=utf-8&bt=0&et=0&rsv_page=1 成功.
+[20170618 19:57:22][f34c53bef4dab6c3][Info] 采集: http://news.baidu.com/ns?word=淘宝618&pn=140&cl=2&ct=1&tn=news&rn=20&ie=utf-8&bt=0&et=0&rsv_page=1 成功.
+[20170618 19:57:24][f34c53bef4dab6c3][Info] 采集: http://news.baidu.com/ns?word=淘宝618&pn=120&cl=2&ct=1&tn=news&rn=20&ie=utf-8&bt=0&et=0&rsv_page=-1 成功.
+[20170618 19:57:25][f34c53bef4dab6c3][Info] 采集: http://news.baidu.com/ns?word=淘宝618&pn=200&cl=2&ct=1&tn=news&rn=20&ie=utf-8&bt=0&et=0 成功.
+[20170618 19:57:27][f34c53bef4dab6c3][Info] 采集: http://news.baidu.com/ns?word=淘宝618&pn=220&cl=2&ct=1&tn=news&rn=20&ie=utf-8&bt=0&et=0&rsv_page=1 成功.
+[20170618 19:57:28][f34c53bef4dab6c3][Info] 采集: http://news.baidu.com/ns?word=淘宝618&pn=240&cl=2&ct=1&tn=news&rn=20&ie=utf-8&bt=0&et=0&rsv_page=1 成功.
+[20170618 19:57:30][f34c53bef4dab6c3][Info] 采集: http://news.baidu.com/ns?word=淘宝618&pn=260&cl=2&ct=1&tn=news&rn=20&ie=utf-8&bt=0&et=0 成功.
+[20170618 19:57:31][f34c53bef4dab6c3][Info] 采集: http://news.baidu.com/ns?word=淘宝618&pn=200&cl=2&ct=1&tn=news&rn=20&ie=utf-8&bt=0&et=0&rsv_page=-1 成功.
+[20170618 19:57:32][f34c53bef4dab6c3][Info] 采集: http://news.baidu.com/ns?word=淘宝618&pn=240&cl=2&ct=1&tn=news&rn=20&ie=utf-8&bt=0&et=0 成功.
+[20170618 19:57:34][f34c53bef4dab6c3][Info] 采集: http://news.baidu.com/ns?word=淘宝618&pn=220&cl=2&ct=1&tn=news&rn=20&ie=utf-8&bt=0&et=0 成功.
+[20170618 19:57:35][f34c53bef4dab6c3][Info] 采集: http://news.baidu.com/ns?word=淘宝618&pn=180&cl=2&ct=1&tn=news&rn=20&ie=utf-8&bt=0&et=0&rsv_page=-1 成功.
+[20170618 19:57:36][f34c53bef4dab6c3][Info] 采集: http://news.baidu.com/ns?word=淘宝618&pn=200&cl=2&ct=1&tn=news&rn=20&ie=utf-8&bt=0&et=0&rsv_page=1 成功.
+[20170618 19:57:38][f34c53bef4dab6c3][Info] 采集: http://news.baidu.com/ns?word=淘宝618&pn=160&cl=2&ct=1&tn=news&rn=20&ie=utf-8&bt=0&et=0&rsv_page=-1 成功.
+[20170618 19:57:39][f34c53bef4dab6c3][Info] 采集: http://news.baidu.com/ns?word=淘宝618&pn=100&cl=2&ct=1&tn=news&rn=20&ie=utf-8&bt=0&et=0&rsv_page=-1 成功.
+[20170618 19:57:41][f34c53bef4dab6c3][Info] 采集: http://news.baidu.com/ns?word=淘宝618&pn=80&cl=2&ct=1&tn=news&rn=20&ie=utf-8&bt=0&et=0&rsv_page=-1 成功.
+[20170618 19:57:43][f34c53bef4dab6c3][Info] 采集: http://news.baidu.com/ns?word=淘宝618&pn=60&cl=2&ct=1&tn=news&rn=20&ie=utf-8&bt=0&et=0&rsv_page=-1 成功.
+[20170618 19:57:44][f34c53bef4dab6c3][Info] 采集: http://news.baidu.com/ns?word=淘宝618&pn=40&cl=2&ct=1&tn=news&rn=20&ie=utf-8&bt=0&et=0&rsv_page=-1 成功.
+[20170618 19:57:46][f34c53bef4dab6c3][Info] 采集: http://news.baidu.com/ns?word=淘宝618&pn=20&cl=2&ct=1&tn=news&rn=20&ie=utf-8&bt=0&et=0&rsv_page=-1 成功.
+[20170618 19:57:47][f34c53bef4dab6c3][Info] 采集: http://news.baidu.com/ns?word=淘宝618&pn=180&cl=2&ct=1&tn=news&rn=20&ie=utf-8&bt=0&et=0 成功.
+[20170618 19:57:49][f34c53bef4dab6c3][Info] 采集: http://news.baidu.com/ns?word=淘宝618&pn=160&cl=2&ct=1&tn=news&rn=20&ie=utf-8&bt=0&et=0 成功.
+[20170618 19:57:50][f34c53bef4dab6c3][Info] 采集: http://news.baidu.com/ns?word=淘宝618&pn=180&cl=2&ct=1&tn=news&rn=20&ie=utf-8&bt=0&et=0&rsv_page=1 成功.
+[20170618 19:57:51][f34c53bef4dab6c3][Info] 采集: http://news.baidu.com/ns?word=淘宝618&pn=140&cl=2&ct=1&tn=news&rn=20&ie=utf-8&bt=0&et=0&rsv_page=-1 成功.
+[20170618 19:57:53][f34c53bef4dab6c3][Info] 采集: http://news.baidu.com/ns?word=淘宝618&pn=140&cl=2&ct=1&tn=news&rn=20&ie=utf-8&bt=0&et=0 成功.
+[20170618 19:57:54][f34c53bef4dab6c3][Info] 采集: http://news.baidu.com/ns?word=淘宝618&pn=160&cl=2&ct=1&tn=news&rn=20&ie=utf-8&bt=0&et=0&rsv_page=1 成功.
+[20170618 19:57:56][f34c53bef4dab6c3][Info] 采集: http://news.baidu.com/ns?word=淘宝618&pn=120&cl=2&ct=1&tn=news&rn=20&ie=utf-8&bt=0&et=0 成功.
+[20170618 19:57:57][f34c53bef4dab6c3][Info] 采集: http://news.baidu.com/ns?word=淘宝618&pn=0&cl=2&ct=1&tn=news&rn=20&ie=utf-8&bt=0&et=0 成功.
+[20170618 19:57:59][f34c53bef4dab6c3][Info] 采集: http://news.baidu.com/ns?word=淘宝618&pn=0&cl=2&ct=1&tn=news&rn=20&ie=utf-8&bt=0&et=0&rsv_page=-1 成功.
+[20170618 19:58:00][f34c53bef4dab6c3][Info] 采集: http://news.baidu.com/ns?word=淘宝618&pn=100&cl=2&ct=1&tn=news&rn=20&ie=utf-8&bt=0&et=0 成功.
+[20170618 19:58:02][f34c53bef4dab6c3][Info] 采集: http://news.baidu.com/ns?word=淘宝618&pn=80&cl=2&ct=1&tn=news&rn=20&ie=utf-8&bt=0&et=0 成功.
+[20170618 19:58:03][f34c53bef4dab6c3][Info] 采集: http://news.baidu.com/ns?word=淘宝618&pn=60&cl=2&ct=1&tn=news&rn=20&ie=utf-8&bt=0&et=0 成功.
+[20170618 19:58:05][f34c53bef4dab6c3][Info] 采集: http://news.baidu.com/ns?word=淘宝618&pn=40&cl=2&ct=1&tn=news&rn=20&ie=utf-8&bt=0&et=0 成功.
+[20170618 19:58:06][f34c53bef4dab6c3][Info] 采集: http://news.baidu.com/ns?word=淘宝618&pn=20&cl=2&ct=1&tn=news&rn=20&ie=utf-8&bt=0&et=0 成功.

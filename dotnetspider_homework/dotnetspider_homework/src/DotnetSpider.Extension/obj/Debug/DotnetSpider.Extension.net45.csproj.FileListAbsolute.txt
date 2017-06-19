@@ -1,0 +1,6 @@
+C:\Users\xiongpingping\Desktop\代码2\output\net451\DotnetSpider.Extension.dll.config
+C:\Users\xiongpingping\Desktop\代码2\output\net451\DotnetSpider.Extension.dll
+C:\Users\xiongpingping\Desktop\代码2\output\net451\DotnetSpider.Extension.pdb
+C:\Users\xiongpingping\Desktop\代码2\src\DotnetSpider.Extension\obj\Debug\DotnetSpider.Extension.net45.csprojResolveAssemblyReference.cache
+C:\Users\xiongpingping\Desktop\代码2\src\DotnetSpider.Extension\obj\Debug\DotnetSpider.Extension.dll
+C:\Users\xiongpingping\Desktop\代码2\src\DotnetSpider.Extension\obj\Debug\DotnetSpider.Extension.pdb
